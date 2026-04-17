@@ -1,12 +1,58 @@
-## Hi there 👋
+# Nodum.tech
 
-<!--
+Создаём ботов нового уровня. Архитектура, автоматизация и UX/UI, которые конвертируют пользователей в клиентов. От WebApp витрин до AI-ассистентов.
 
-**Here are some ideas to get you started:**
+## О проекте
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nodum.tech — сервис разработки ботов для бизнеса, который помогает автоматизировать рутинные процессы и улучшить взаимодействие с клиентами через Telegram, VK и другие платформы.
+
+## Возможности
+
+- 🤖 Разработка ботов для Telegram и VK
+- 🌐 Интеграция с WebApp витринами
+- 🤖 AI-ассистенты с кастомной логикой
+- 📊 Анализ коммуникаций и инсайты
+- 🔗 Интеграция с CRM системами
+- 📈 Квалификация лидов
+- ⏰ Работа 24/7 без перерывов
+
+## Тарифы
+
+### Базовый
+- Бот в Telegram + VK
+- Отвечает на вопросы 24/7
+- Принимает заявки и записи
+- До 500 диалогов в месяц
+- Запуск за 7-10 дней
+
+### Продвинутый
+- Telegram + VK + сайт
+- Дожим "думающих" клиентов
+- Квалификация лидов
+- До 1 500 диалогов в месяц
+- Ежемесячный отчёт по вопросам и конверсии
+
+### Премиум
+- Безлимит диалогов
+- Анализ звонков и коммуникаций
+- Инсайты из всех касаний
+- Кастомные AI-агенты
+- Приоритетная поддержка
+
+## Отзывы клиентов
+
+> "Бот полностью заменил администратора! Теперь запись 24/7, а клиенты в восторге от скорости ответа. За месяц окупился полностью."
+
+> "Разработка заняла всего 8 дней вместо обещанных 14. Качество на высоте, поддержка отличная. Рекомендую!"
+
+> "Интеграция с CRM прошла гладко. Бот квалифицирует лиды и отправляет их в нашу систему. Автоматизация работает идеально."
+
+## Контакты
+
+- [GitHub](https://github.com/Nodum-TEACH)
+- [Telegram](#)
+- Email: support@nodum.tech
+
+## Лицензия
+
+© 2026. Code & Design.
